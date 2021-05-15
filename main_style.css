@@ -1,0 +1,78 @@
+#main_h {
+    text-align: center;
+    margin: 40px auto 60px auto;
+    font-family: georgia, "Times new roman", serif;
+    font-size: 3em;
+    opacity: 0.9;
+}
+
+.left_h {
+    position: relative;
+    border-style: hidden;
+    padding: 2px;
+    margin-left: 7em;
+    margin-top: 2.2em;
+    font-size: 1.8em;
+    text-align: center;
+    width: 10em;
+    font-family: "verdana", "Arial", sans-serif;
+    opacity: 0.94;
+    line-height: 1.8;
+    top: 200px;
+}
+
+.right_add {
+    background-color: #f44336;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    width: 100px;
+    position: absolute;
+    right: 22em;
+    top: 18.8em;
+}
+
+#train {
+    margin-top: 18.8em;
+}
+
+.right_h {
+    position: absolute;
+    border-style: hidden;
+    padding: 2px;
+    right: 9.9em;
+    margin-top: 2.2em;
+    font-size: 1.8em;
+    text-align: center;
+    width: 10em;
+    font-family: "verdana", "Arial", sans-serif;
+    opacity: 0.94;
+    line-height: 1.8;
+    padding-bottom: 210px;
+}
+
+.right_h_1 {
+    position: absolute;
+    border-style: hidden;
+    padding: 2px;
+    right: 9.9em;
+    margin-top: 3.9em;
+    font-size: 1.8em;
+    text-align: center;
+    width: 10em;
+    font-family: "verdana", "Arial", sans-serif;
+    opacity: 0.94;
+    line-height: 1.8;
+}
+
+body{
+    font-size: 100%;
+}
+
+#secondLine {
+    position: relative;
+    top: 330px;
+    padding-bottom: 30px;
+}

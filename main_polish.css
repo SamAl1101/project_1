@@ -1,0 +1,142 @@
+body {
+    font-family: georgia, "Times new roman", serif;
+    font-size: 100%;
+}
+
+#main_h {
+    text-align: center;
+    margin: 40px auto 60px auto;
+    font-family: georgia, "Times new roman", serif;
+    font-size: 3em;
+    opacity: 0.8;
+}
+
+#firstBox {
+    border-top-style: solid;
+    border-width: 2px;
+    opacity: 0.9;
+    border-bottom-style: solid;
+    border-right-style: none;
+    border-left-style: none;
+    text-align:center;
+    position: relative;
+}
+
+#lang {
+    text-align: center;
+    padding: 30px;
+}
+
+.langop {
+    display: inline-block;
+    padding: 15px 20px;
+    border: solid 2px green;
+    text-align: center;
+    text-decoration: none;
+    width: 200px;
+    position: relative;
+    bottom: 15px;
+    margin: 5px;
+}
+
+a.langop: link, a.langop: visited {
+    text-decoration: none;
+    color: blue;
+    background-color: white;
+}
+
+a.langop:hover {
+    text-decoration: none;
+    color: white;
+    background-color: blue;
+}
+
+
+
+
+.box {
+    border-top-style: none;
+    border-width: 2px;
+    opacity: 0.9;
+    border-bottom-style: solid;
+    border-right-style: none;
+    border-left-style: none;
+    text-align:center;
+    position: relative;
+}
+
+
+#ftext {
+    position: relative;
+    top: 30px;
+    left: 230px;
+    width: 300px;
+    line-height: 1.8;
+    padding-bottom: 50px;
+    text-align: center;
+}
+
+#stext {
+    position: absolute;
+    width: 300px;
+    right: 230px;
+    line-height: 1.8;
+    padding-bottom: 50px;
+    text-align: center;
+    display: inline;
+    padding-bottom: 80px;
+}
+
+.bord {
+   border-top-style: hidden;
+    border-width: 2px;
+    opacity: 0.9;
+    border-bottom-style: solid;
+    border-right-style: none;
+    border-left-style: none;
+    text-align:center;
+    position: relative;
+    top: 250px;
+}
+
+.fbutton {
+    float: right;
+    display: inline-block;
+    padding: 20px 30px;
+    border: solid 2px green;
+    text-align: center;
+    text-decoration: none;
+    width: 200px;
+    position: relative;
+    top: -175px;
+    right: 245px;
+}
+
+a.fbutton:link {
+    text-decoration: none;
+    color: black;
+    background-color: white;
+}
+
+a.fbutton:visited {
+    text-decoration: none;
+    color: black;
+}
+
+a.fbutton:hover {
+    text-decoration: none;
+    color: white;
+    background-color: blue;
+}
+
+ol {
+    list-style-type: upper-roman;
+    font-size: 2em;
+    text-align: center;
+    list-style-position: inside;
+    line-height: 3;
+}
+
+.dzial {
+    text-align: center;
+}
